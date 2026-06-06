@@ -1,0 +1,18 @@
+SOFTWARE LICENSE AGREEMENT
+
+Copyright (c) 2026 [Kevin Khademzadeh]
+
+This software is licensed, not sold.
+
+The purchaser is granted a non-transferable license to use this software on one personal computer.
+
+The purchaser may not:
+
+* redistribute the software
+* resell the software
+* modify or reverse engineer the software
+* share license keys with others
+
+Violation of this agreement terminates the license immediately.
+
+All rights reserved.
